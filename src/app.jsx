@@ -1,5 +1,2 @@
-import Platefolio from './components/Platefolio'
-
-export default function App() {
-  return <Platefolio />
-}
+import Platefolio from './components/Platefolio' export default function App() {
+  return <Platefolio /> }
