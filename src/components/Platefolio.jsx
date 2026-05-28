@@ -1,1 +1,1 @@
-src/components/platefolio.jsx
+src/components/Platefolio.jsx
